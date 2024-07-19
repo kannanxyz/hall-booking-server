@@ -1,0 +1,19 @@
+{
+  "name": "hallbooking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannanxyz/hall-booking-server.git"
+  },
+  "author": "Thamarai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kannanxyz/hall-booking-server/issues"
+  },
+  "homepage": "https://github.com/kannanxyz/hall-booking-server#readme",
+  "description": ""
+}
