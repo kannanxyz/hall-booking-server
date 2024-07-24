@@ -106,7 +106,7 @@ app.get("/", (req, res) => {
   res.send(`
   
   <h1 style="text-align: center;">
-      Hello Welcome to Naveen hotel Bookings
+      Hello Welcome to Thamarai hotel Bookings
   </h1>
     <div style="display:flex; justify-content:center;padding:20px;"> 
     <div style=" background-color:blue; padding:20px;"> 
